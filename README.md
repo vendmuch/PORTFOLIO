@@ -28,7 +28,7 @@ This role has provided me with valuable experience in a dynamic, multicultural e
 * [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
 * [Postman](https://www.postman.com/) - Practice API testing
 * [Snowflake](https://app.snowflake.com/) - for better collaborative working environment in data test with SQL
-* [Visual Studio Code](https://code.visualstudio.com/) - practice coding Python
+* [Visual Studio Code](https://code.visualstudio.com/) & [Anaconda](https://www.anaconda.com/)- practice coding Python
   
 ### Tech skills 
 * Rest API testing
@@ -55,10 +55,11 @@ This role has provided me with valuable experience in a dynamic, multicultural e
 * empathy
 
 ### Courses 
-* Agile - [Skill Academy](https://www.skillacademy.com/) 
+* Agile and Scrum for development projects - [Skill Academy](https://www.skillacademy.com/)
+* Basic Programming for data science : SQL, R Language, and Python - [Skill Academy](https://www.skillacademy.com/)
 
 ### Certificates 
-* [Agile](https://img-certificate.ruangguru.com/VENDYEXWHN2TL5G1/CERT-B1N3RQB0.jpg?orig=1)
+* [Agile & Scrum for development projects](https://img-certificate.ruangguru.com/VENDYEXWHN2TL5G1/CERT-B1N3RQB0.jpg?orig=1)
 
 
 
