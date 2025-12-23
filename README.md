@@ -7,9 +7,15 @@ It's my journey as Quality Assurance Tester
   In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained so far. I am determined to continue to grow in this field. I have also started learning test automation, so at the moment my main focus is on furthering my knowledge and practise in this area.
   
 # Contact me 
-* Email : vendmuch@gmail.com(mailto:vendmuch@gmail.com)
+* Email : vendmuch@gmail.com
 * LinkedIn : [Vendy Muchdyasworo Putra](https://www.linkedin.com/in/vendy-muchdyasworo-624766195/)
 * Resume : [Preview & Download PDF](https://github.com/user-attachments/files/24307504/cv.resume.pdf)
+* Location : Magelang, Indonesia
+* Language :
+  - Indonesia (native)
+  - English (upper intermediate | B2)
+  - Italiano *(with serious help from dictionary, translator apps, and AI companions — and still questionable mutual understanding)*  
+
 
 
 ### My experience
